@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="temp"><sub>O</sub> C</string>
+</resources>
