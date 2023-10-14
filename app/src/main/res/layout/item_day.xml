@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="4dp"
         android:layout_marginVertical="10dp"
-        android:backgroundTint="#48319D"
+        android:backgroundTint="#B67AFD"
         app:contentPadding="20dp"
         app:contentPaddingLeft="50dp"
         app:contentPaddingRight="50dp"

@@ -1,9 +1,7 @@
 package uz.itteacher.myweatherapp
 
 import android.annotation.SuppressLint
-import android.content.Context
 import android.content.Intent
-import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -18,7 +16,6 @@ import uz.itteacher.myweatherapp.adapter.TodayAdapter
 import uz.itteacher.myweatherapp.databinding.ActivityMainBinding
 import uz.itteacher.myweatherapp.model.Forecast
 import uz.itteacher.myweatherapp.model.today
-import java.lang.NullPointerException
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import kotlin.math.roundToInt
